@@ -1,0 +1,6 @@
+review,sentiment_scores,sentiment
+I really loved movie . It excellent watch .,"{'neg': 0.0, 'neu': 0.336, 'pos': 0.664, 'compound': 0.8357}",positive
+A truly disappointing movie . I would recommend anyone .,"{'neg': 0.276, 'neu': 0.259, 'pos': 0.466, 'compound': 0.296}",positive
+It mediocre movie . Some part interesting others quite boring .,"{'neg': 0.211, 'neu': 0.569, 'pos': 0.22, 'compound': 0.0276}",positive
+The movie okay . Not best I seen .,"{'neg': 0.363, 'neu': 0.432, 'pos': 0.205, 'compound': -0.3544}",negative
+Fantastic ! I completely absorbed movie .,"{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.5983}",positive
